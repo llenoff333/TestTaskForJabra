@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JabraTestTasks", "JabraTestTasks\JabraTestTasks.csproj", "{BDD2F56A-1842-40E7-95E1-509BD0ED08E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD2F56A-1842-40E7-95E1-509BD0ED08E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD2F56A-1842-40E7-95E1-509BD0ED08E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD2F56A-1842-40E7-95E1-509BD0ED08E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD2F56A-1842-40E7-95E1-509BD0ED08E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {077C1EA6-F6CE-44DF-8749-5B2C60712821}
+	EndGlobalSection
+EndGlobal
